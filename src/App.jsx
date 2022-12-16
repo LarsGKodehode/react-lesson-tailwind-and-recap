@@ -12,7 +12,7 @@ import PokemonPage from './routes/PokemonPage/PokemonPage';
 function App() {
   return (
     <Router>
-      <div className="bg-orange-400 min-h-screen">
+      <div className="min-h-screen bg-orange-400">
         <header>
           <nav>
             <Link to='/'>Home</Link>
